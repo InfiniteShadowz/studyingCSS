@@ -1,0 +1,36 @@
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text {
+    color: red;
+  }
+
+  h2 {
+    font-family: Lobster, monospace;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+  .smaller-image {
+    width: 100px;
+  }
+<!-- # é para ID e . para uma classe -->
+  #cat-photo-form{
+    background-color: green;
+  }
+
+  .silver-background {
+    background-color: silver;
+  }
+</style>
+
+<!-- <form action="/submit-cat-photo" id="cat-photo-form"> -->
